@@ -1,2 +1,2 @@
 # Simple-Orbit
-Simple animation using semi-implicit euler's method for
+Applied semi-implicit Euler's method for orbits.
