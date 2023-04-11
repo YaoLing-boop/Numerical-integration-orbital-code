@@ -11,8 +11,8 @@ y = zeros(N,1);
 w = zeros(N,1);
 x(1) = 1;
 y(1) = 0;
-v(1) = 0;
-w(1) = 0.6;
+v(1) = 0.3;
+w(1) = 1;
 %% Numerical integration
 for i = 1:N-1
     t1 = x(i)^2+y(i)^2;
